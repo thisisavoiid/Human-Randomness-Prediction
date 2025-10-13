@@ -58,5 +58,4 @@ python <script_name>.py
 * Resetting the dataset is irreversible.
 * Works best after multiple inputs to build prediction accuracy.
 
-```
 
