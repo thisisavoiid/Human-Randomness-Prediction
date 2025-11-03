@@ -1,4 +1,4 @@
-# Number Predictor
+# Human-Randomness-Prediction
 
 A **Python console-based number prediction tool** that learns from user inputs. The program collects sequences of numbers between 1-9, predicts future inputs based on historical patterns, and keeps track of prediction accuracy. It uses JSON to persist the dataset between runs.
 
@@ -50,20 +50,20 @@ python main.py
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/[YourUsername]/[RepositoryName].git
+git clone https://github.com/thisisavoiid/Human-Randomness-Prediction.git
 ```
 
 2. Navigate into the project folder:
 
 ```bash
-cd [RepositoryName]
+cd Human-Randomness-Prediction
 ```
 
 3. Make sure you are using **Python 3.x**.
 4. Run the program:
 
 ```bash
-python main.py
+python predict.py
 ```
 
 ---
@@ -102,6 +102,3 @@ python main.py
 ---
 
 > Made with ❤️ in Python
-
-Do you want me to create that?
-```
